@@ -1,0 +1,14 @@
+# BootstrapBlazor - Enterprise-class Blazor UI library
+
+- BootstrapBlazor, developed by BootstrapBlazor Group, is a Blazor UI library that aims to provide a high-quality design language and development framework for enterprise-level full stack management systems. It offers a rich set of components and design guidelines, helping developers build modern, responsive, and high-performance web applications.
+
+## Semantic Descriptions
+
+- [BootstrapBlazor Component Semantic Descriptions](https://www.blazor.zone/llms-semantic.md)
+
+## Docs
+
+- [Install](https://raw.githubusercontent.com/dotnetcore/BootstrapBlazor/refs/heads/main/src/BootstrapBlazor.Server/Components/Pages/Install.razor)
+- [Introduction](https://raw.githubusercontent.com/dotnetcore/BootstrapBlazor/refs/heads/main/src/BootstrapBlazor.Server/Components/Pages/Introduction.razor)
+- [Affix](https://raw.githubusercontent.com/dotnetcore/BootstrapBlazor/refs/heads/main/src/BootstrapBlazor.Server/Components/Samples/Affixs.razor)
+- [Ajax](https://raw.githubusercontent.com/dotnetcore/BootstrapBlazor/refs/heads/main/src/BootstrapBlazor.Server/Components/Samples/Ajaxs.razor)
